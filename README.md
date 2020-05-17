@@ -1,3 +1,5 @@
 # ML-Report
 
-I will upload my essays and notes to this repository occasionally. If you are interested, feel free to read them in the folders above.
+I will upload my essays and notes to this repository occasionally. 
+
+To view them, go to https://cyaaronk.github.io/ML-Report/ or download the files directly.
